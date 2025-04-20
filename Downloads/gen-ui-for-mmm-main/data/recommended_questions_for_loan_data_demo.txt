@@ -1,0 +1,42 @@
+Recommended Questions for Your Data Agent Demo
+Basic Descriptive Analysis
+
+"What's the average loan amount requested versus approved for our home equity loans?"
+"Show me the distribution of loan purposes in our portfolio with a visualization."
+"What is our average time to decision for loan applications, and how does it vary by month?"
+"What's the approval rate for loan applications in our dataset?"
+
+Risk Assessment
+
+"What percentage of applications have an LTV ratio above 80%, and what's their approval rate?"
+"Show me the relationship between credit score and interest rate with a scatter plot."
+"Compare the average combined LTV ratio across different loan purposes."
+"For denied applications, what seem to be the most common risk factors?"
+
+Efficiency Analysis
+
+"How has our time to decision changed over the months in 2023? Create a trend visualization."
+"Which loan purposes tend to have the longest approval times?"
+"Is there a correlation between loan amount and time to decision?"
+
+Business Insights
+
+"What is the total value of approved loans by month? Show this as a bar chart."
+"What is the average interest rate for approved loans by purpose?"
+"Calculate the dollar value difference between requested and approved amounts by credit score range."
+"What's our approval rate by income brackets? Show as a visualization."
+
+Portfolio Analysis
+
+"What are the most common loan terms in our portfolio?"
+"How does the loan-to-value ratio vary with property values?"
+"Compare the amount approved to amount requested ratio across different credit score ranges."
+"What's the potential revenue from interest over the full term of all approved loans?"
+"Create a risk profile visualization showing the relationship between LTV ratio, credit score, and approval status."
+
+Advanced Analysis
+
+"Build a simple predictive model to identify which factors most strongly influence loan approval."
+"Segment our applicants into three risk tiers based on credit score, LTV ratio, and income."
+"Generate a monthly report showing approval rates, average loan amounts, and interest rates."
+"How would our portfolio risk change if we lowered our maximum LTV threshold by 5%?"
